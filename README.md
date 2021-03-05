@@ -1,4 +1,7 @@
 # fix-ime-win10
+IME日本語入力がぶっ壊れたとき、ctfmon.exeの再起動を3クリックでやるためのスクリプト
+https://qiita.com/_masa_u/items/b2e9c07f51a909c6e9b8
+
 つかいかた：
 - reboot-ime.ps1 をどっかにおく
 - reboot-ime.ps1 のショートカットを作成
